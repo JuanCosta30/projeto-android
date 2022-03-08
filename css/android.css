@@ -50,6 +50,7 @@ header > p{
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;  
+    padding-bottom: 50px;
 }
 nav{
     background-color:rgb(223, 223, 223) ;
